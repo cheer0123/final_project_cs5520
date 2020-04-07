@@ -1,0 +1,253 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/ee6ac1a631d53e7255f813242d25abf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/e034d3c79caaac474ef326c2b65e73b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.roughike:bottom-bar:1.4.0.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29736530097e15d5cb0627ab84a9b253/AndroidManifest.xml:2:1-12:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a07fee284d37cad2d0cba56b2381fd6f/AndroidManifest.xml:2:1-13:12
+MERGED from [biz.laenger.android:vpbs:0.0.5] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/c37b1919450dbf38b3bc280a7e583d9d/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:design:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/54b7cb7afe347e7433947c74d14e153f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/ba0d3c17e9f078803403f0614758ac60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/0c5ef611253280760904afb8baa36257/AndroidManifest.xml:17:1-22:12
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/4af4415a47e6cb5e4aaf7eb785598c26/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7b34b45d05d85b012e0b203719bf2c39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/847153fcc507f8cea19e7cf527e0ce0e/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.3.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d8e7442f9a4f417376681784799e5c99/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/6112e4734a0e9d0c55eff8cd459b22d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca921a9e01086b56fbb0640407d6a4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/e06da186a59c6dada068236d4e57a8a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/efcb5c405cb1ad8b11ccde6a9b4faa37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/913d647c46e286ddc8256e2ea54db210/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/9433c1001445a6c28054306beadc77e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/4b726ed91f91451e87fa147c5bdaf6fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/2850726176f5d9e87988a6c2dcfaec38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5da7055c4c57295366b7623e5b2f2ca2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/6fa9a0d01c0cd15031a78b60ac271cb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/3be5ed62327d7c41dc1a73d0edcd7fe1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1787d7474ffba80d14870275b264ede8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/139b5b63023f82786e74a20fa22e1d76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/197b64ee1e0e60254340560cc5c6c9d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1cd73d2ae0dbceab52ba43b001e6e856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29a6b099228a19aaf408c235ba98e552/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5a53dd5435444a68eeed9b0b86e6fc87/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/afb0863ff6f53acacf3ccaf69c0e35c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a0b5432d7feb88a0babb2b0b8fcc25ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/64b1e0292dc6dca586bdb19140cce21d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ee27e191b68e322ae16a88def592925/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5e6f75832a7c0b2e8d03a186a0150b2c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d9f9d227fe842e203e4411e685b859d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1951142ff890509c78c3a35a0c348dc8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/dc2bc1f3d3cceabe88d443aa92eef0fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/383ab98c4a43a774842d7567ff609609/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/61471f9702622d2d664d70143f26ab92/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:12:5-38:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a07fee284d37cad2d0cba56b2381fd6f/AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a07fee284d37cad2d0cba56b2381fd6f/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/54b7cb7afe347e7433947c74d14e153f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/54b7cb7afe347e7433947c74d14e153f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/847153fcc507f8cea19e7cf527e0ce0e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/847153fcc507f8cea19e7cf527e0ce0e/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.3.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d8e7442f9a4f417376681784799e5c99/AndroidManifest.xml:12:5-20
+MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.3.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d8e7442f9a4f417376681784799e5c99/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29a6b099228a19aaf408c235ba98e552/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29a6b099228a19aaf408c235ba98e552/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5a53dd5435444a68eeed9b0b86e6fc87/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5a53dd5435444a68eeed9b0b86e6fc87/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29a6b099228a19aaf408c235ba98e552/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:17:9-35
+	android:fullBackupContent
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:19:9-48
+	android:icon
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:13:9-38
+activity#com.finalProject.myWeather.activities.SplashActivity
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:theme
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:21:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.finalProject.myWeather.activities.MainActivity
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:30:13-52
+provider#com.finalProject.myWeather.utils.StubContentProvider
+ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:34:9-37:39
+	android:authorities
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:36:13-71
+	android:exported
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml:35:13-54
+uses-sdk
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/ee6ac1a631d53e7255f813242d25abf1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/ee6ac1a631d53e7255f813242d25abf1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/e034d3c79caaac474ef326c2b65e73b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/e034d3c79caaac474ef326c2b65e73b9/AndroidManifest.xml:20:5-44
+MERGED from [com.roughike:bottom-bar:1.4.0.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29736530097e15d5cb0627ab84a9b253/AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:1.4.0.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29736530097e15d5cb0627ab84a9b253/AndroidManifest.xml:8:5-10:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a07fee284d37cad2d0cba56b2381fd6f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a07fee284d37cad2d0cba56b2381fd6f/AndroidManifest.xml:7:5-9:41
+MERGED from [biz.laenger.android:vpbs:0.0.5] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/c37b1919450dbf38b3bc280a7e583d9d/AndroidManifest.xml:6:5-8:41
+MERGED from [biz.laenger.android:vpbs:0.0.5] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/c37b1919450dbf38b3bc280a7e583d9d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/54b7cb7afe347e7433947c74d14e153f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/54b7cb7afe347e7433947c74d14e153f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/ba0d3c17e9f078803403f0614758ac60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/ba0d3c17e9f078803403f0614758ac60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/0c5ef611253280760904afb8baa36257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/0c5ef611253280760904afb8baa36257/AndroidManifest.xml:20:5-44
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/4af4415a47e6cb5e4aaf7eb785598c26/AndroidManifest.xml:6:5-8:41
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/4af4415a47e6cb5e4aaf7eb785598c26/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7b34b45d05d85b012e0b203719bf2c39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7b34b45d05d85b012e0b203719bf2c39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/847153fcc507f8cea19e7cf527e0ce0e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/847153fcc507f8cea19e7cf527e0ce0e/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.3.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d8e7442f9a4f417376681784799e5c99/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.3.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d8e7442f9a4f417376681784799e5c99/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/6112e4734a0e9d0c55eff8cd459b22d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/6112e4734a0e9d0c55eff8cd459b22d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca921a9e01086b56fbb0640407d6a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca921a9e01086b56fbb0640407d6a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/e06da186a59c6dada068236d4e57a8a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/e06da186a59c6dada068236d4e57a8a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/efcb5c405cb1ad8b11ccde6a9b4faa37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/efcb5c405cb1ad8b11ccde6a9b4faa37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/913d647c46e286ddc8256e2ea54db210/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/913d647c46e286ddc8256e2ea54db210/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/9433c1001445a6c28054306beadc77e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/9433c1001445a6c28054306beadc77e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/4b726ed91f91451e87fa147c5bdaf6fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/4b726ed91f91451e87fa147c5bdaf6fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/2850726176f5d9e87988a6c2dcfaec38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/2850726176f5d9e87988a6c2dcfaec38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5da7055c4c57295366b7623e5b2f2ca2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5da7055c4c57295366b7623e5b2f2ca2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/6fa9a0d01c0cd15031a78b60ac271cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/6fa9a0d01c0cd15031a78b60ac271cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/3be5ed62327d7c41dc1a73d0edcd7fe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/3be5ed62327d7c41dc1a73d0edcd7fe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1787d7474ffba80d14870275b264ede8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1787d7474ffba80d14870275b264ede8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/139b5b63023f82786e74a20fa22e1d76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/139b5b63023f82786e74a20fa22e1d76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/197b64ee1e0e60254340560cc5c6c9d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/197b64ee1e0e60254340560cc5c6c9d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1cd73d2ae0dbceab52ba43b001e6e856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1cd73d2ae0dbceab52ba43b001e6e856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29a6b099228a19aaf408c235ba98e552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/29a6b099228a19aaf408c235ba98e552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5a53dd5435444a68eeed9b0b86e6fc87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5a53dd5435444a68eeed9b0b86e6fc87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/afb0863ff6f53acacf3ccaf69c0e35c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/afb0863ff6f53acacf3ccaf69c0e35c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a0b5432d7feb88a0babb2b0b8fcc25ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/a0b5432d7feb88a0babb2b0b8fcc25ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/64b1e0292dc6dca586bdb19140cce21d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/64b1e0292dc6dca586bdb19140cce21d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ee27e191b68e322ae16a88def592925/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ee27e191b68e322ae16a88def592925/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5e6f75832a7c0b2e8d03a186a0150b2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/5e6f75832a7c0b2e8d03a186a0150b2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d9f9d227fe842e203e4411e685b859d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/d9f9d227fe842e203e4411e685b859d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1951142ff890509c78c3a35a0c348dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/1951142ff890509c78c3a35a0c348dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/dc2bc1f3d3cceabe88d443aa92eef0fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/dc2bc1f3d3cceabe88d443aa92eef0fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/383ab98c4a43a774842d7567ff609609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/383ab98c4a43a774842d7567ff609609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/61471f9702622d2d664d70143f26ab92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/61471f9702622d2d664d70143f26ab92/AndroidManifest.xml:20:5-44
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YZhao3/Desktop/weather/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/YZhao3/.gradle/caches/transforms-2/files-2.1/7ca6d625cc6319357325363c985ac2b1/AndroidManifest.xml:24:13-83

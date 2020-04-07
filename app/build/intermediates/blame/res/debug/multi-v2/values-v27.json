@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/YZhao3/Desktop/weather/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/YZhao3/Desktop/weather/app/src/main/res/values-v27/styles.xml",
+                    "from": {
+                        "startLines": "2,34,22,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,1743,1110,745",
+                        "endLines": "13,44,32,20",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "740,2345,1737,1104"
+                    },
+                    "to": {
+                        "startLines": "2,14,25,36",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,745,1352,1984",
+                        "endLines": "13,24,35,42",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "740,1347,1979,2343"
+                    }
+                }
+            ]
+        }
+    ]
+}
